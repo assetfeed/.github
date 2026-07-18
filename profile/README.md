@@ -1,38 +1,25 @@
-# CryptochaseAI — Live Crypto Market Intelligence
+# AssetFeed
 
-Make smarter crypto decisions with real‑time market data, analyst opinions, curated Top Picks, trending discussions, and a developer‑friendly Traders API.
+**AI market intelligence for crypto and stocks.**
 
-[Visit CryptochaseAI](https://cryptochase.ai/)
+[AssetFeed](https://assetfeed.com) turns real-time prices, news, and market
+sentiment across 4,500+ crypto and stock assets into a plain-language daily
+Market Recap, sentiment signals, and an AI chat you can ask about any asset —
+built to cover every asset class.
 
-## What we do
-CryptochaseAI blends live market data with expert analysis to surface actionable insights across thousands of digital assets. Track momentum, liquidation events, whale activity, and narratives; build strategies with advanced analytics and a performant API.
+## About
 
-- 10K+ cryptocurrencies tracked
-- 1K+ daily opinions and insights
-- 24/7 updates and alerts
+AssetFeed is independent and founder-run. We build the market tool we use to
+trade every day: honest about what data can and can't tell you, plain language
+over jargon, education over hype. Nothing we publish is financial advice.
 
-## Quick links
-- All Opinions: https://cryptochase.ai/opinions
-- Top Picks: https://cryptochase.ai/opinions/recent-top
-- Most Discussed: https://cryptochase.ai/opinions/most-discussed
-- Crypto Market: https://cryptochase.ai/crypto
-- Premium: https://cryptochase.ai/pricing
-- Traders API: https://cryptochase.ai/traders-api
-- Watchlist: https://cryptochase.ai/watchlist
-- Support: https://cryptochase.ai/support
-- Privacy Policy: https://cryptochase.ai/privacy-policy
-- Terms of Service: https://cryptochase.ai/terms-of-service
+## Open source
 
-## Highlights
-- Real‑time prices, market cap, and momentum tracking
-- Analyst opinions with clear rationale and sentiment
-- Curated Top Picks and trending discussions
-- Personal watchlists and alerts
-- Premium analytics for advanced traders
-- API for builders and quant workflows
+We are opening up our developer tooling — official SDKs, an MCP server that
+connects AssetFeed data to AI agents, and connectors for popular
+trading-research frameworks. Have a request? Open an issue in any repository;
+we read all of them.
 
-## Also see
-- GitHub Pages overview: https://cryptochaseai.github.io/
-- GitLab Pages overview: https://cryptochase.gitlab.io/
+## Links
 
-© 2025 CryptochaseAI. All rights reserved.
+- Product: [assetfeed.com](https://assetfeed.com)
