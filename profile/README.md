@@ -2,9 +2,9 @@
 
 **AssetFeed is AI market intelligence for crypto and stocks.**
 
-We turn real-time prices, news, and market sentiment across 4,500+ crypto and
-stock assets into plain-language daily Market Recaps, sentiment indicators,
-and an AI chat you can ask about any asset — at
+We turn real-time prices, news, and public commentary across 4,500+ crypto
+and stock assets into plain-language daily Market Recaps, a clear read on
+market sentiment, and an AI chat you can ask about any asset — at
 [assetfeed.com](https://assetfeed.com).
 
 ## About
@@ -16,9 +16,10 @@ advice.
 
 ## Open source
 
-Developer tooling is on our roadmap: official SDKs and an MCP server that
-connects AssetFeed data to AI agents. Watch this organization to catch the
-first releases.
+Developer tooling is in progress: official SDKs and an MCP server that
+connects AssetFeed data to AI agents — starting in
+[assetfeed/assetfeed](https://github.com/assetfeed/assetfeed). Have a
+request? [Open an issue](https://github.com/assetfeed/assetfeed/issues).
 
 ## Links
 
